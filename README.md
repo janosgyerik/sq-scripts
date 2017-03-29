@@ -1,1 +1,3 @@
-# sonar-scripts
+# SonarQube scripts
+
+Practical scripts for SonarQube developers.
