@@ -1,0 +1,14 @@
+{
+    "name": "Code Analysis 3",
+    "head_sha": "HEAD_SHA",
+    "status": "completed",
+    "conclusion": "success",
+    "external_id": "42",
+    "started_at": "2018-05-04T01:14:52Z",
+    "completed_at": "2018-05-04T02:15:52Z",
+    "output": {
+        "title": "title goes here",
+        "summary": "summary goes here",
+        "text": "text goes here"
+    }
+}

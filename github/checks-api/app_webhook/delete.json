@@ -1,0 +1,11 @@
+{
+  "action": "deleted",
+  "installation": {
+    "id": 431382,
+    "account": {
+      "id": 34277064,
+      "type": "foo"
+    },
+    "app_id": 20134
+  }
+}

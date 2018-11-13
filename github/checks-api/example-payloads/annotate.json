@@ -1,0 +1,36 @@
+{
+    "name": "Code Analysis",
+    "head_sha": "HEAD_SHA",
+    "status": "completed",
+    "conclusion": "success",
+    "external_id": "42",
+    "started_at": "2018-05-04T01:14:52Z",
+    "completed_at": "2018-05-04T02:15:52Z",
+    "output": {
+        "title": "title goes here",
+        "summary": "summary goes here",
+        "text": "text goes here",
+        "annotations": [
+            {
+                "title": "annotation title",
+                "path": "src/Bigger.xoo",
+                "start_line": 118,
+                "end_line": 118,
+                "start_column": 7,
+                "end_column": 11,
+                "annotation_level": "notice",
+                "message": "[label](http://github.com)"
+            },
+            {
+                "title": "annotation title",
+                "path": "src/Bigger.xoo",
+                "start_line": 218,
+                "end_line": 218,
+                "start_column": 7,
+                "end_column": 11,
+                "annotation_level": "notice",
+                "message": "[label](http://github.com)"
+            }
+        ]
+    }
+}
